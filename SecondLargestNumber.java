@@ -4,8 +4,6 @@ public class main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-         //en buyuk 2.
-
          System.out.println("dizi kac elemanli olsun");
           int n = scanner.nextInt();
            int[] sayi = new int[n];
